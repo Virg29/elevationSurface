@@ -1,6 +1,6 @@
 import requests as req
 import json
-key='AIzaSyAcCe0X87lSL9cZzaPZUV8tU2Z2XPh2IqY'
+key='*'
 pathLong=20000#in meters
 multiplier=200
 magnifize=3
